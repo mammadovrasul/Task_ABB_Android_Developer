@@ -1,4 +1,4 @@
-package az.abb.warehause.figure
+package az.abb.warehause.figures_model
 
 import az.abb.warehause.CalculateUtil.calculateSphereCSA
 import az.abb.warehause.CalculateUtil.calculateSpherePA

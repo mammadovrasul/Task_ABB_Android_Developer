@@ -3,16 +3,11 @@ package az.abb.warehause
 import android.os.Bundle
 import android.util.Log
 import androidx.appcompat.app.AppCompatActivity
-import az.abb.warehause.figure.Cone
-import az.abb.warehause.figure.Cube
-import az.abb.warehause.figure.Cuboid
-import az.abb.warehause.figure.CylinderClosedAtTop
-import az.abb.warehause.figure.CylinderOpenAtTop
-import az.abb.warehause.figure.Frustum
-import az.abb.warehause.figure.HemiSphere
-import az.abb.warehause.figure.HollowCylinder
-import az.abb.warehause.figure.SpericalShell
-import az.abb.warehause.figure.Sphere
+import az.abb.warehause.figures_model.Cone
+import az.abb.warehause.figures_model.Cube
+import az.abb.warehause.figures_model.Cuboid
+import az.abb.warehause.figures_model.CylinderClosedAtTop
+import az.abb.warehause.figures_model.CylinderOpenAtTop
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
